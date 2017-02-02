@@ -1,0 +1,96 @@
+{
+    "RDO": {
+        "askbot": [
+            "https://ask.openstack.org"
+        ],
+        "bugzilla": [
+            "https://bugzilla.redhat.com/ filter-raw=product:RDO"
+        ],
+        "pipermail": [
+            "https://www.redhat.com/archives/rdo-list/"
+        ],
+        "git": [
+            "https://github.com/redhat-openstack/ansible-nfv.git",
+            "https://github.com/redhat-openstack/ansible-rhosp.git",
+            "https://github.com/redhat-openstack/ansible-role-ci-centos.git",
+            "https://github.com/redhat-openstack/ansible-role-quickstart-overcloud.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-backup.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-baremetal-prep-virthost.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-cleanup-nfo.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-collect-logs.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-diagnostics.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-gate.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-image-build.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-inventory.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-ipa.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-prep-config.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-prep-flavors.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-prep-images.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-prep-network.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-scale-nodes.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-upgrade.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-validate.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-overcloud-validate-ha.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-parts.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-provision-heat.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-reboot.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-reference-template.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-ssl.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-tempest.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-tempest-undercloud.git",
+            "https://github.com/redhat-openstack/ansible-role-tripleo-undercloud-post.git",
+            "https://github.com/redhat-openstack/ci-ansible-tripleo.git",
+            "https://github.com/redhat-openstack/dci-agent.git",
+            "https://github.com/redhat-openstack/dci-test-rally.git",
+            "https://github.com/redhat-openstack/django.git",
+            "https://github.com/redhat-openstack/EOL_openstack-puppet.git",
+            "https://github.com/redhat-openstack/EOL_smokestack_helper_scripts.git",
+            "https://github.com/redhat-openstack/image-building-poc.git",
+            "https://github.com/redhat-openstack/khaleesi.git",
+            "https://github.com/redhat-openstack/khaleesi-settings.git",
+            "https://github.com/redhat-openstack/neutron-tempest-staging.git",
+            "https://github.com/redhat-openstack/octario.git",
+            "https://github.com/redhat-openstack/oooq-site-config-ci-centos.git",
+            "https://github.com/redhat-openstack/openshift-on-openstack.git",
+            "https://github.com/redhat-openstack/openstack-dashboard-theme.git",
+            "https://github.com/redhat-openstack/openstack-foreman-installer.git",
+            "https://github.com/redhat-openstack/openstack-manuals-convert.git",
+            "https://github.com/redhat-openstack/openstack-packaging-doc.git",
+            "https://github.com/redhat-openstack/openstack-puppet-modules.git",
+            "https://github.com/redhat-openstack/openstack-selinux.git",
+            "https://github.com/redhat-openstack/openstack-utils.git",
+            "https://github.com/redhat-openstack/packstack.git",
+            "https://github.com/redhat-openstack/puppet-galera.git",
+            "https://github.com/redhat-openstack/puppet-openstack-storage.git",
+            "https://github.com/redhat-openstack/puppet-pacemaker.git",
+            "https://github.com/redhat-openstack/pymod2pkg.git",
+            "https://github.com/redhat-openstack/python-ironicclient.git",
+            "https://github.com/redhat-openstack/python-tempestconf.git",
+            "https://github.com/redhat-openstack/python-tripleo-helper.git",
+            "https://github.com/redhat-openstack/rally-plugins.git",
+            "https://github.com/redhat-openstack/rdo-ci-tools.git",
+            "https://github.com/redhat-openstack/rdo-docs.git",
+            "https://github.com/redhat-openstack/rdo-update.git",
+            "https://github.com/redhat-openstack/rdoinfo.git",
+            "https://github.com/redhat-openstack/redhat-openstack.github.com.git",
+            "https://github.com/redhat-openstack/tempest-nfv-plugin.git",
+            "https://github.com/redhat-openstack/tempest-plugin.git",
+            "https://github.com/redhat-openstack/tripleo-quickstart.git",
+            "https://github.com/redhat-openstack/trunk.rdoproject.org.git",
+            "https://github.com/redhat-openstack/website.git",
+            "https://github.com/redhat-openstack/ansible-pacemaker.git"
+        ],
+        "meta": {
+            "title": "rdo"
+        },
+        "supybot": [
+            "irc://irc.freenode.net/rdo /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#rdo",
+            "irc://irc.freenode.net/rdo-puppet /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#rdo-puppet",
+            "irc://irc.freenode.net/tripleo /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#tripleo",
+            "irc://irc.freenode.net/openstack-rpm-packaging /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#openstack-rpm-packaging",
+            "irc://irc.freenode.net/trystack /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#trystack"
+        ]
+    }
+}
+
