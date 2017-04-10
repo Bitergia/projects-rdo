@@ -1,7 +1,7 @@
 {
     "RDO": {
         "askbot": [
-            "https://ask.openstack.org"
+           "https://ask.openstack.org --filters-raw-prefix  filter-raw=data.tags:rdo" 
         ],
         "bugzilla": [
             "https://bugzilla.redhat.com/ filter-raw=product:RDO"
